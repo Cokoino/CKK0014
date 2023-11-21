@@ -5,7 +5,7 @@
 - You will get a "CKK0014-main"ZIP file in your computer when the download task is finished,
 - ! Unzip the ZIP file instead of opening the file in the ZIP file directly.
 - ! Do not move, delete or rename files in the folder just unzipped.
-
+![Image text](https://github.com/Cokoino/Image/blob/2950625429aa46e0a25d91f5022649eed2a79353/CKK0014.png)
 # CKK0014
 Cokoino 4WD Mecanum Wheel Car for Arduino
 # Contact us:
