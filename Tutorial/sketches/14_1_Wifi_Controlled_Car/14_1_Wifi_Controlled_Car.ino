@@ -191,7 +191,7 @@ void judgement() {
 
       lcd.clear();
       lcd.setCursor(1, 0);
-      lcd.print("Not a APP_CMD! ");
+      lcd.print("WIFI Prepared!");
     }
     //comdata = "";
     //return; // When debugging communication with the APP, it needs to be commented out when normal use
